@@ -1,0 +1,7 @@
+.sidebar-menu{
+  cursor: pointer;
+}
+
+.sidebar-menu .side-menu:hover {
+  color: #6B32DE !important;
+}
